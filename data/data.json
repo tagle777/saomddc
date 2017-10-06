@@ -15551,7 +15551,7 @@
             "combo_damage_20": 1,
             "combo_damage_30": 1,
             "combo_speed": 0.04,
-            "s3_mp": 100,
+            "s3_mp": 120,
             "s3_duration": 2.96,
             "s3_rate": 13.957347533108011,
             "s3_video": 0,
@@ -18294,7 +18294,7 @@
             "eq_atk_wep": "moonlight_dual",
             "eq_atk_amr": "m_light1",
             "eq_atk_acc": "mf_dark4",
-            "meta": "【生き血を捧げよ】キリト kirito [offer lifeblood] 月夜キリト moonlight kirito ★5 *5 キリト kirito m 男性 @male 月夜のハロウィンパレード moonlight halloween parade ガチャ gacha スカウト scout 闇 dark alo 連携 combination リーダースキル ls leader skill"
+            "meta": "【生き血を捧げよ】キリト kirito [offer lifeblood] 月夜キリト moonlight kirito ★5 *5 キリト kirito m 男性 @male 月夜のハロウィンパレード moonlight halloween parade ガチャ gacha スカウト scout 闇 dark alo 連携 combination リーダースキル ls leader skill 自己回復 self heal"
         },
         "moonlight_eugeo": {
             "id": "moonlight_eugeo",
@@ -18356,7 +18356,7 @@
             "eq_atk_wep": "moonlight_sword1",
             "eq_atk_amr": "m_light1",
             "eq_atk_acc": "mf_dark4",
-            "meta": "【月夜に咆えろ】ユージオ eugeo [howl at the moon] 月夜ユージオ moonlight eugeo ★5 *5 ユージオ eugeo m 男性 @male 月夜のハロウィンパレード moonlight halloween parade ガチャ gacha スカウト scout 闇 dark alo 連携 combination リーダースキル ls leader skill"
+            "meta": "【月夜に咆えろ】ユージオ eugeo [howl at the moon] 月夜ユージオ moonlight eugeo ★5 *5 ユージオ eugeo m 男性 @male 月夜のハロウィンパレード moonlight halloween parade ガチャ gacha スカウト scout 闇 dark alo 連携 combination リーダースキル ls leader skill 自己回復 self heal"
         },
         "moonlight_asuna": {
             "id": "moonlight_asuna",
@@ -18418,7 +18418,7 @@
             "eq_atk_wep": "ninja_staff",
             "eq_atk_amr": "f_none4",
             "eq_atk_acc": "mf_dark4",
-            "meta": "【真夜中の誘惑】アスナ asuna [midnight temptation] 月夜アスナ moonlight asuna ★5 *5 アスナ asuna f 女性 @female 月夜のハロウィンパレード moonlight halloween parade ガチャ gacha スカウト scout 闇 dark alo 連携 combination リーダースキル ls leader skill"
+            "meta": "【真夜中の誘惑】アスナ asuna [midnight temptation] 月夜アスナ moonlight asuna ★5 *5 アスナ asuna f 女性 @female 月夜のハロウィンパレード moonlight halloween parade ガチャ gacha スカウト scout 闇 dark alo 連携 combination リーダースキル ls leader skill 自己回復 self heal"
         },
         "moonlight_alice": {
             "id": "moonlight_alice",
@@ -18480,7 +18480,7 @@
             "eq_atk_wep": "moonlight_sword1",
             "eq_atk_amr": "f_none6",
             "eq_atk_acc": "mf_dark4",
-            "meta": "【カボチャの騎士】アリス alice [pumpkin knight] 月夜アリス moonlight alice ★5 *5 アリス alice f 女性 @female 月夜のハロウィンパレード moonlight halloween parade ガチャ gacha スカウト scout 闇 dark alo 連携 combination リーダースキル ls leader skill"
+            "meta": "【カボチャの騎士】アリス alice [pumpkin knight] 月夜アリス moonlight alice ★5 *5 アリス alice f 女性 @female 月夜のハロウィンパレード moonlight halloween parade ガチャ gacha スカウト scout 闇 dark alo 連携 combination リーダースキル ls leader skill 自己回復 self heal"
         },
         "moonlightr_lisbeth": {
             "id": "moonlightr_lisbeth",
@@ -18542,7 +18542,7 @@
             "eq_atk_wep": "summer_lance",
             "eq_atk_amr": "f_none6",
             "eq_atk_acc": "mf_dark4",
-            "meta": "【お菓子なハロウィン】リズベット lisbeth [wacky happy halloween] 月夜リズ moonlight lisbeth ★5 *5 リズ lisbeth f 女性 @female 魔城の凶星 報酬 the malefic star of the magic citadel reward 報酬 reward 制限 restricted 闇 dark alo"
+            "meta": "【お菓子なハロウィン】リズベット lisbeth [wacky happy halloween] 月夜リズ moonlight lisbeth ★5 *5 リズ lisbeth f 女性 @female 魔城の凶星 報酬 the malefic star of the magic citadel reward 報酬 reward 制限 restricted 闇 dark alo 自己回復 self heal"
         }
     },
     "type": {
